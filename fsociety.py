@@ -18,7 +18,13 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet FSOCIETY ATACK")
+
+print " _____   _____   _____   _____   _   _____   _____  __    __"
+print "|  ___| /  ___/ /  _  \ /  ___| | | | ____| |_   _| \ \  / /"
+print "| |__   | |___  | | | | | |     | | | |__     | |    \ \/ /"
+print "|  __|  \___  \ | | | | | |     | | |  __|    | |     \  /"
+print "| |      ___| | | |_| | | |___  | | | |___    | |     / /"
+print "|_|     /_____/ \_____/ \_____| |_| |_____|   |_|    /_/ " 
 
 print "Author    : FSOCITEY-ARAB"
 print "Facebook  : fsociety.moussa"
