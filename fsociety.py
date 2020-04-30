@@ -18,18 +18,21 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet FR13NDS DDoS")
-print
-print "Author    : MOUSSA.MRx"
-print "Facebook  : https://www.facebook.com/moussa.zero0"
-print "github    : https://github.com/FR13NDS13"
+
+print(" ╔═╗╔═╗╔═╗╔═╗╦╔═╗╔╦╗╦ ╦  ╔═╗╔╦╗╔═╗╔═╗╦╔═ ")
+print(" ╠╣ ╚═╗║ ║║  ║║╣  ║ ╚╦╝  ╠═╣ ║ ╠═╣║  ╠╩╗ ")
+print(" ╚  ╚═╝╚═╝╚═╝╩╚═╝ ╩  ╩   ╩ ╩ ╩ ╩ ╩╚═╝╩ ╩ ")
+
+print "Author    : FSOCITEY-ARAB"
+print "Facebook  : fsociety.moussa"
+print "github    : FSOCIETY-coder-dz"
 print "twitter : @ShadowDz5"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack FR13NDS")
+os.system("figlet FSOCIETY ATACK")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
