@@ -35,6 +35,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
+
 print ("FSOCIETY ATACK")
 print "[                    ] 0% "
 time.sleep(5)
