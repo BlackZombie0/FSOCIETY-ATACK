@@ -18,10 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-
-print(" ╔═╗╔═╗╔═╗╔═╗╦╔═╗╔╦╗╦ ╦  ╔═╗╔╦╗╔═╗╔═╗╦╔═ ")
-print(" ╠╣ ╚═╗║ ║║  ║║╣  ║ ╚╦╝  ╠═╣ ║ ╠═╣║  ╠╩╗ ")
-print(" ╚  ╚═╝╚═╝╚═╝╩╚═╝ ╩  ╩   ╩ ╩ ╩ ╩ ╩╚═╝╩ ╩ ")
+os.system("figlet FSOCIETY ATACK")
 
 print "Author    : FSOCITEY-ARAB"
 print "Facebook  : fsociety.moussa"
