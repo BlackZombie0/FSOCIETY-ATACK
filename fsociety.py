@@ -36,7 +36,7 @@ port = input("Port       : ")
 
 os.system("clear")
 
-print ("FSOCIETY ATACK")
+print "FSOCIETY ATACK"
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
